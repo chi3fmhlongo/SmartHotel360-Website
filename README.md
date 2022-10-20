@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/SiyabongaKhwela/Azure%20Developer%20Qualification/_apis/build/status/chi3fmhlongo.SmartHotel360-Website?branchName=master)](https://dev.azure.com/SiyabongaKhwela/Azure%20Developer%20Qualification/_build/latest?definitionId=5&branchName=master)
 # **This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.**
 
 ## For the latest sample references visit: https://aka.ms/tailwindtraders & https://aka.ms/rpsls 
